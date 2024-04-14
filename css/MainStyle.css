@@ -1,0 +1,12 @@
+*{ margin: 0;padding: 0; box-sizing: border-box;}
+.main-img { background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7) ), url(../img/pxfuel\ \(3\).jpg); background-repeat: no-repeat; background-size: cover; height: 100vh;}
+.color-main li a{color:#ffffff;transition: 0.8s all ease-in-out;}
+.color-main li a:hover{border-bottom:  #FFC107  1px solid !important; color: #FFC107; }
+.main-border{border: 3px solid #fafad2; background: linear-gradient( rgba(31, 30, 27, 0.5), rgba(155, 145, 15, 0.144) ); border-radius: 10px;}
+.social-media ul li a{color: #fff;transition: all 0.8s ease-in-out;}
+.social-media ul li a:hover{color: #FFC107;}
+.hover-here{color: #FFC107!important; transition: 0.8s all ease-in-out;}
+.hover-here:hover{color: #fff !important;}
+@media screen and  (max-width: 768px){.mob-1{ width: 100% !important; margin-top: 30px !important;}.mob-1 h2{font-size: 22px !important; padding: 10px 0px !important;}.color-main li a:hover{border-bottom:none !important; color: #FFC107; } .mob-2{font-size: 20px !important;}}
+@media screen and  (max-width: 840px){.mob-1{ width: 100% !important; margin-top: 30px !important;}.mob-1 h2{font-size: 22px !important; padding: 10px 0px !important;}.color-main li a:hover{border-bottom:none !important; color: #FFC107; }}
+
